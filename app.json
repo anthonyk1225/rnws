@@ -30,11 +30,11 @@
           "fetch"
         ]
       },
-      "bundleIdentifier": "",
+      "bundleIdentifier": "host.exp.expo",
       "buildNumber": "1.0.0"
     },
     "android": {
-      "package": "",
+      "package": "host.exp.expo",
       "versionCode": 1,
       "intentFilters": [
         {
